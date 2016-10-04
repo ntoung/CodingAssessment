@@ -1,5 +1,5 @@
-# CodingAssessment
-This is my answers to the coding assessment.
+# Coding Assessment
+This is my answers to the coding assessment are included in answers.js.
 
 ### First, clone or download:
 
