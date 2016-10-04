@@ -1,5 +1,13 @@
 # CodingAssessment
-This is a coding assessment.
+This is my answers to the coding assessment.
+
+### First, clone or download:
+
+```bash
+$ git clone https://github.com/ntoung/CodingAssessment.git
+```
 
 ### Run
-``` node app.js
+```bash
+  node app.js
+```
