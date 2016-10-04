@@ -9,5 +9,5 @@ $ git clone https://github.com/ntoung/CodingAssessment.git
 
 ### Run
 ```bash
-  node app.js
+  node answers.js
 ```
